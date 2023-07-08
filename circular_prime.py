@@ -5,7 +5,6 @@ def prime(n):
         if n%i==0:
             return False
     return True
-
 n=int(input())
 l=str(n)
 s=l[::-1]
