@@ -6,7 +6,7 @@ while n>0:
     s+=r
     p*=r
     n=n//10
-if p==s:
+if s==p:
     print("Spy Number")
 else:
     print("Not Spy Number")
