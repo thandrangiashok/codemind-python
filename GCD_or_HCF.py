@@ -8,3 +8,4 @@ if a==0:
     print(b)
 else:
     print(a)
+    
