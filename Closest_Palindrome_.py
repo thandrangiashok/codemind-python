@@ -3,9 +3,9 @@ def is_palin(n):
     ns=ns[::-1]
     ns=int(ns)
     if n==ns:
-        return True
+       return True
     else:
-        return False
+      return False
 n=int(input())
 t=n
 temp=n
