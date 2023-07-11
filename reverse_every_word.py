@@ -1,3 +1,4 @@
-s=input().split()
-for w in s:
-    print(w[::-1],end=' ')
+a=input()
+a=a.split()
+for i in a:
+    print(i[::-1],end=' ')
